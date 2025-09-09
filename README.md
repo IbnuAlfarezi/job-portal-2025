@@ -252,4 +252,4 @@ For support, email support@jobportal.com or join our Slack channel.
 
 ---
 
-Built with ❤️ by the JobPortal Team
+Built with ❤️ by ITDEV TEAM
