@@ -246,10 +246,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Lucide](https://lucide.dev/) - Beautiful icons
 - [Framer Motion](https://www.framer.com/motion/) - Animation library
 
-## 📞 Support
-
-For support, email support@jobportal.com or join our Slack channel.
-
----
-
 Built with ❤️ by ITDEV TEAM
